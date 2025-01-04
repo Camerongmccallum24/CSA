@@ -32,7 +32,7 @@ export function Hero() {
           <div className="mt-12 relative">
             <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent z-10 h-40 bottom-0" />
             <img
-              src="https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=2070&q=80"
+              src="src/assets/images/Leonardo_Phoenix_10_Create_a_futuristic_workflow_Template_card_1.jpg"
               alt="Platform Interface"
               className="rounded-lg shadow-2xl border border-white/10"
             />
